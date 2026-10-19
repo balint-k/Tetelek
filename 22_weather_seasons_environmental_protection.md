@@ -1,88 +1,94 @@
-# Transport – B szintű szóbeli tétel
+# Weather, seasons, environmental protection – B szintű szóbeli tétel
 
 ## 1. Tétel és vezérfonal
 
-**Topic: Transport**
+**Topic: Weather, seasons, environmental protection**
 
-- public transport (local and long-distance)
-- individual transport
-- green transport
+- weather, seasons
+- the importance of protecting our environment
+- environmental issues
+- environmental protection at home (selective waste collection, energy saving)
 
 ---
 
 ## 2. Vezető kérdések (vizsgáztatói kérdések)
 
-### Public transport
+### Weather, seasons
 
-- How do you get to school?
-- What means of public transport are there in your town?
-- What are the advantages and disadvantages of public transport?
-- How do people travel long distances in Hungary (train, bus, plane)?
+- What is your favourite season and why?
+- What is the weather like in Hungary in each season?
+- How does the weather affect your mood?
+- What weather do you hate the most?
 
-### Individual transport
+### The importance of protecting our environment
 
-- Do you have a bike? Will you have a car one day?
-- What are the advantages of travelling by car?
-- What are the disadvantages of too many cars?
-- What is it like to travel by car with your family?
+- Why is environmental protection important?
+- Whose responsibility is it — the governments' or ours?
+- What happens if we do nothing?
+- Can one person really make a difference?
 
-### Green transport
+### Environmental issues
 
-- What can we do to make transport greener?
-- Would you like an electric car one day?
-- Is cycling safe in your town?
-- Who should do more for green transport: people or governments?
+- What environmental problems do you know?
+- How does climate change affect Hungary?
+- What causes global warming and air pollution?
+- Is plastic the biggest enemy?
+
+### Environmental protection at home
+
+- How does your family collect waste selectively?
+- How do you save energy at home?
+- What do you repair or reuse instead of throwing away?
+- What green habits would you like to adopt?
 
 ---
 
 ## 3. Hasznos szókincs (Useful vocabulary)
 
-### Public transport
+### Weather and seasons
 
+| English | Magyar |
+|---|---|
+| weather forecast | időjárás-jelentés |
+| temperature | hőmérséklet |
+| sunny / cloudy / rainy | napos / felhős / esős |
+| to pour | ömlik (az eső) |
+| freezing | fagyos |
+| heatwave | hőhullám |
+| mild | enyhe |
+| soaking wet | csuromvizes |
+| season | évszak |
+| to affect | befolyásolni |
 
-| English                 | Magyar                   |
-| ----------------------- | ------------------------ |
-| public transport        | tömegközlekedés          |
-| means of transport      | közlekedési eszköz       |
-| bus stop / station      | megálló / pályaudvar     |
-| ticket / season ticket  | jegy / bérlet            |
-| fare                    | viteldíj                 |
-| to catch / miss the bus | elérni / lekésni a buszt |
-| delay                   | késés                    |
-| crowded                 | zsúfolt                  |
-| timetable               | menetrend                |
-| long-distance           | távolsági                |
+### Importance and issues
 
+| English | Magyar |
+|---|---|
+| environmental protection | környezetvédelem |
+| climate change | éghajlatváltozás |
+| global warming | felmelegedés |
+| greenhouse effect | üvegházhatás |
+| air pollution | levegőszennyezés |
+| extreme weather | szélsőséges időjárás |
+| carbon footprint | szénlábnyom |
+| to be responsible for | felelős vmiért |
+| future generations | jövő nemzedékei |
+| to cause | okozni |
 
-### Individual transport
+### Protection at home
 
-
-| English           | Magyar                |
-| ----------------- | --------------------- |
-| to drive          | vezetni               |
-| driver's licence  | vezetői engedély      |
-| traffic jam       | dugó                  |
-| rush hour         | csúcsidő              |
-| parking           | parkolás              |
-| passenger         | utas                  |
-| fuel              | üzemanyag             |
-| to give sb a lift | elvinni vkit kocsival |
-
-
-### Green transport
-
-
-| English          | Magyar                           |
-| ---------------- | -------------------------------- |
-| green transport  | környezetbarát közlekedés        |
-| electric car     | elektromos autó                  |
-| charging station | töltőállomás                     |
-| bike lane        | kerékpársáv                      |
-| public bikes     | közbiciklik (pl. Bubi)           |
-| carpooling       | közös autózás                    |
-| emissions        | kibocsátás (kibocsátott anyagok) |
-| to reduce        | csökkenteni                      |
-
+| English | Magyar |
+|---|---|
+| selective waste collection | szelektív hulladékgyűjtés |
+| recycling | újrahasznosítás |
+| bin | kuka, hulladékgyűjtő |
+| to save energy | energiát spórolni |
+| LED bulb | LED-izzó |
+| solar panels | napelemek |
+| to unplug | kihúzni (a csatlakozót) |
+| reusable bag | újrahasználható (szaty-)tasak |
+| plastic bottle | műanyag palack |
+| to compost | komposztálni |
 
 ---
 
@@ -100,68 +106,68 @@
 
 ## 5. Minta felelet (Sample monologue)
 
-> Today I would like to talk about transport: public transport, individual transport, and green solutions.
+> Today I would like to talk about the weather, the seasons, and environmental protection.
 >
-> First of all, public transport. I go to school by bus — the journey takes about twenty minutes, but in the rush hour the buses are crowded and there are traffic jams. Still, I prefer public transport to being driven, because it's cheap and I can chat with my classmates. For long distances, Hungarians usually take the train or the coach; both are comfortable if you book your ticket online in advance.
+> First of all, the weather. In Hungary we are lucky to have four seasons: hot summers, colourful autumns, cold winters and mild springs. My favourite season is spring, when everything turns green and the air smells of flowers. The weather definitely affects my mood: a sunny morning gives me energy, while grey, rainy weeks make me lazy — and I really hate the freezing wind in January.
 >
-> As for individual transport, I ride my bike when the weather is nice — my mother cycles to work too. My father loves our family car: it gives you freedom and comfort, and you can leave whenever you want. On the other hand, fuel and parking are expensive, and in the city centre the car is often slower than the bike.
+> As for environmental issues, the biggest one is climate change. Summers in Hungary are getting hotter and drier, there are more storms, and my grandmother says winters are not what they used to be. Air pollution and littering are serious problems too.
 >
-> Finally, green transport. In my opinion, the future is electric cars, more bike lanes and better public transport. Until then, everybody can do something: cycle, walk, or share a car with colleagues.
+> This is why protecting our environment is so important: we are not the last generation on this planet. In my opinion, responsibility is shared — governments must make big decisions, but every person counts.
 >
-> All things considered, I believe the best means of transport is the one that doesn't poison the air — and often it's also the fastest. Thank you for listening.
+> Finally, protection starts at home. We collect waste selectively — paper, plastic and glass go into different bins —, we use LED bulbs, and my parents had solar panels installed on the roof last year, which cut our electricity bill almost in half.
+>
+> All things considered, the Earth is our only home, and there is no way to book a flight to a second one. Thank you for listening.
 
 ---
 
 ## 6. Minta válaszok – ha másvalakiről beszélsz
 
-### a) Tömegközlekedés – a falusi barátod és a 6:12-es busz
+### a) Időjárás, évszakok – a nagymamád és a régi telek
 
-> My friend Dani lives in a village nearby, and his relationship with public transport is a real love-hate story. There are only two buses to our town every morning: the 6:12 and the 7:40 — so he must catch the first one, every single day. If he misses it, the next option is his father's car, and his father is not a bus: he leaves when he wants to. Dani says waiting in the winter dark taught him punctuality better than any teacher — his alarm clock rings at 5:50, and he has never been late this year.
+> My grandmother is a living weather archive. She remembers winters when the snow was knee-deep for months, children sledged to school, and the river froze so hard that they walked across it. Last winter, she watched the news about a "record warm February day" and just shook her head: "In my childhood, we had real winters. Now February thinks it's April." The funny and sad thing is that she isn't exaggerating — meteorologists confirm exactly what she sees from her kitchen window.
 
-### b) Egyéni közlekedés – az édesapád és az autó
+### b) A környezetvédelem fontossága – a nagypapád, a fák ültetője
 
-> My father treats our car like a family member. He washes it every Saturday morning with the patience of an artist, and when it was in the garage for two days last spring, he stood at the window like a father outside the hospital. Of course, the romance has a dark side too: in the rush hour he gets stuck in traffic jams and turns into a different person — a red-faced philosopher who comments on "the entire nation's driving skills". Still, on family trips the car is magic: music, bad jokes and chips — a small house on four wheels.
+> My grandfather has planted a tree every spring for forty years — first for his children, now "for the grandchildren who will be born later". When the neighbours asked him why an eighty-year-old plants trees he will never sit under, he answered with a sentence that has become our family motto: "My grandfather planted the trees I rest under. I'm just returning the favour." For me, this is the whole topic in one story: environmental protection is a gift we give to people we will never meet.
 
-### c) Zöld közlekedés – az unokatesóved elektromos autója
+### c) Környezeti problémák – a nagynénéd falujának patakja
 
-> My cousin bought an electric car two years ago, and he became its unofficial salesperson. He charges it at the supermarket while shopping, and he loves telling everyone how the fuel money he saves goes into a holiday fund. The car is silent, cheap to run, and his children call it "the space ship". Of course, there are doubts too: on long trips he has to plan the charging stations like a chess game, and his grandfather still asks the classic question: "But what happens if the battery dies in the middle of nowhere?" — My cousin always answers: "The same as when your petrol tank dies in the middle of nowhere."
+> Behind my aunt's house in the village there is a small creek where my cousins spent every summer catching tadpoles. Fifteen years later, the same creek dried up twice in summer — the fields around it turned yellow in June. The village also had a flood two autumns ago, something the oldest residents can't remember ever happening before. My aunt says nobody in the village talks about "climate change" — they just look at the creek. For scientists it's a chart; for the village it's a lost tadpole pond.
 
-### d) Egy teljes tétel – az édesanyád, a kerékpáros
+### d) Egy teljes tétel – a nénikéd öko-családja
 
-> I would like to talk about my mother, because her everyday transport shows all three points of this topic.
+> I would like to describe my aunt's family, because they live this exam topic every single day.
 >
-> First, public transport: she takes the train to work in the city, and she says the forty minutes are her "reading room" — two chapters a day, no exceptions.
+> First, the weather matters to them: the children measure the temperature every morning, and the solar panels on the roof follow the sunshine like sunflowers.
 >
-> As for individual transport, from the station she cycles home in fifteen minutes — faster than the bus, and free.
+> As for environmental issues, my aunt says her family is small but the problems are big — climate change, air pollution and the plastic tide in the oceans.
 >
-> And green transport? Her whole life is green: no car, a ten-year-old bike, and a rule that anything within three kilometres is walking distance.
+> And protection at home: they collect waste selectively, compost the kitchen leftovers, repair clothes instead of throwing them away, and the children bring reusable bottles to school — their backpacks have been "plastic-free" for two years.
 >
-> When the neighbours asked her why she doesn't buy a car, she answered: "I have one. It's called legs, and the fuel is free."
+> When my uncle calculated that the solar panels had paid for themselves in eight years, they celebrated with a "zero-carbon party" — candles only, of course.
 >
-> All things considered, my mother taught me that transport is not about the vehicle, but about the decisions we make every morning. Thank you for listening.
+> All things considered, my aunt's family proves that protecting the environment is not a sacrifice, but a lifestyle that even a family with three children can live. Thank you for listening.
 
 ### További kifejezések
 
+| English | Magyar |
+|---|---|
+| environmentally friendly | környezetbarát |
+| to waste sth | pazarolni vmit |
+| reduce / reuse / recycle | csökkentés / újrahasználat / újrahasznosítás |
+| disposable | egyszerhasználatos |
+| endangered species | veszélyeztetett fajok |
+| to raise awareness | felhívni a figyelmet |
+| to make a difference | változást hozni |
+| to throw litter | szemetelni |
 
-| English                 | Magyar                 |
-| ----------------------- | ---------------------- |
-| to commute              | ingázni                |
-| to be stuck in traffic  | dugóban ragadni        |
-| speed limit             | sebességhatár          |
-| zebra crossing          | gyalogátkelő           |
-| pedestrian              | gyalogos               |
-| to run out of petrol    | kifogyni a benziből    |
-| on time / delayed       | pontos / késik         |
-| to book a ticket online | online jegyet foglalni |
-
-
-> **Megjegyzés:** gyakori vitás kérdés: „Should public transport be free?" – felelj érv + ellenérv + döntés szerkezetben, és hozz konkrét példát (idők, árak).
+> **Megjegyzés:** tipikus vitás kérdés: „Should plastic bags be banned?" vagy „Is climate change our fault?" – felelj érvekkel, és ne felejtsd el: a saját példád (bike, reusable bottle) mindig erős zárás.
 
 ---
 
 ## 7. Tippek a vizsgára (Exam tips)
 
-- Közlekedési elöljárók klasszikus vizsgacsapdák: *by bus, by car, by train, by bike* DE *on foot* – gyakorold őket, mert biztosan kérdezik.
-- Szokásokhoz jelen időt használj: *I go to school by bus. It takes twenty minutes.* – az *It takes…* szerkezet vizsgapont.
-- Egy emlékezetes utazást mulass múlt időben: *We got stuck, we missed the train, we arrived at midnight.*
-- A zöld közlekedésnél mutass két szintet: mit tehet az egy ember (bike, walking) és mit az állam (bike lanes, electric buses).
+- Az időjárás-leírás természetes nyitómondat: gyakorold a mai időjárás 3 mondatos leírását — *It's cloudy today, about fifteen degrees, and rain is expected in the afternoon.*
+- Első feltételes: *If we don't change our habits, summers will get even hotter.* – ebben a tételben ez a nyelvtani kulcs.
+- Fokozás: *hotter and hotter, drier and drier, the warmest winter ever* – az éghajlatváltozás nyelvtana.
+- Cseréld le a *very*-t: *scorching, freezing, pouring* – a szép szókincs pontot ér.

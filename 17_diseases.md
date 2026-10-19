@@ -1,86 +1,84 @@
-# Health – B szintű szóbeli tétel
+# Diseases – B szintű szóbeli tétel
 
 ## 1. Tétel és vezérfonal
 
-**Topic: Health**
+**Topic: Diseases**
 
-- healthy lifestyle
-- unhealthy lifestyle and its consequences
-- healthy and unhealthy eating
+- most common diseases and symptoms
+- prevention
+- addictions
 
 ---
 
 ## 2. Vezető kérdések (vizsgáztatói kérdések)
 
-### Healthy lifestyle
+### Most common diseases and symptoms
 
-- What do you do to stay healthy?
-- How much sleep do teenagers need?
-- How often do you do sports?
-- What regular check-ups should people have?
+- What are the most common diseases in Hungary?
+- What are the symptoms of flu?
+- What do you do when you are ill?
+- Which diseases are typical in old age?
 
-### Unhealthy lifestyle and its consequences
+### Prevention
 
-- What habits are unhealthy?
-- What are the consequences of smoking or too much screen time?
-- How does stress affect our health?
-- Why is it so hard to change bad habits?
+- How can we prevent illnesses?
+- Why are vaccinations important?
+- How often should we go to check-ups?
+- What did the COVID pandemic teach us?
 
-### Healthy and unhealthy eating
+### Addictions
 
-- What does a balanced diet mean?
-- What food do you try to avoid?
-- How much sugar is too much?
-- Do you think fashionable diets work?
+- What addictions do you know?
+- Why are smoking and vaping dangerous?
+- Is phone addiction a real disease?
+- How can addicts be helped?
 
 ---
 
 ## 3. Hasznos szókincs (Useful vocabulary)
 
-### Healthy lifestyle
+### Diseases and symptoms
 
+| English | Magyar |
+|---|---|
+| flu | influenza |
+| cold | megfázás |
+| fever / temperature | láz |
+| sore throat | torokfájás |
+| cough | köhögés |
+| to sneeze | tüsszögni |
+| allergy | allergia |
+| chronic disease | krónikus betegség |
+| high blood pressure | magas vérnyomás |
+| symptom | tünet |
 
-| English             | Magyar             |
-| ------------------- | ------------------ |
-| healthy lifestyle   | egészséges életmód |
-| to keep fit         | formában maradni   |
-| to work out         | edzeni             |
-| to get enough sleep | eleget aludni      |
-| check-up            | szűrővizsgálat     |
-| immune system       | immunrendszer      |
-| to relax            | lazítani           |
-| vitamins            | vitaminok          |
+### Prevention and the doctor
 
+| English | Magyar |
+|---|---|
+| prevention | megelőzés |
+| vaccination | oltás |
+| check-up | szűrővizsgálat |
+| to make an appointment | időpontot kérni |
+| GP (general practitioner) | háziorvos |
+| prescription | recept |
+| to take medicine | gyógyszert bevenni |
+| painkiller | fájdalomcsillapító |
+| sick leave | betegszabadság, táppénz |
+| to recover | felépülni |
 
-### Unhealthy lifestyle
+### Addictions
 
-
-| English                | Magyar                   |
-| ---------------------- | ------------------------ |
-| bad habits             | rossz szokások           |
-| to stay up late        | későig fennmaradni       |
-| junk food              | gyorskaja                |
-| to be addicted to sth  | függő vmitől             |
-| to put on weight       | hízni                    |
-| obesity                | elhízás                  |
-| sleep deprivation      | alváshiány               |
-| to damage one's health | károsítani az egészségét |
-
-
-### Eating
-
-
-| English            | Magyar                       |
-| ------------------ | ---------------------------- |
-| balanced diet      | kiegyensúlyozott étrend      |
-| home-cooked food   | otthon főtt étel             |
-| fast food          | gyorsétel                    |
-| soft drinks        | üdítőitalok                  |
-| to cut down on sth | csökkenteni vmi fogyasztását |
-| to go on a diet    | fogyókúrázni                 |
-| ingredients        | összetevők, alapanyagok      |
-| to skip a meal     | kihagyni egy étkezést        |
-
+| English | Magyar |
+|---|---|
+| addiction | függőség |
+| to be addicted to sth | függő vmitől |
+| smoking / vaping | dohányzás / vape-elés |
+| to quit | leszokni |
+| willpower | akaraterő |
+| peer pressure | kortárscsoport nyomása |
+| e-cigarette | e-cigaretta |
+| to cut down on sth | csökkenteni vmit |
 
 ---
 
@@ -98,68 +96,64 @@
 
 ## 5. Minta felelet (Sample monologue)
 
-> Today I would like to talk about health: a healthy lifestyle, an unhealthy one, and eating habits.
+> Today I would like to talk about diseases: the most common ones, prevention, and addictions.
 >
-> First of all, how I try to stay healthy. I do sports three times a week, I try to get eight hours of sleep, and I drink water instead of soft drinks. I also visit the dentist twice a year, because regular check-ups can catch problems early.
+> First of all, the most common diseases. In winter almost everybody in my class catches a cold or the flu: the typical symptoms are fever, a sore throat, a headache and sneezing. Among older people, chronic diseases are the biggest problem — my grandmother, for example, suffers from high blood pressure, so she takes medicine every day. When I'm ill, I stay in bed, drink tea with honey, and if the fever doesn't go down in two days, my mother calls our GP.
 >
-> However, I know the unhealthy side too, because my friend is a living example of it: he eats junk food almost every day, drinks energy drinks, and stays up late gaming. The consequences are clear: he is always tired, he has put on weight, and his immune system is so weak that he catches every cold in the class. In my opinion, the hardest part of changing bad habits is starting — as my grandmother says, the first week is a battle, the second week is a habit.
+> As for prevention, I believe it is much better than curing. We should wash our hands often, get the vaccinations recommended by the doctor, and go to check-ups every year. The COVID pandemic taught us an important lesson: if we take care of ourselves in everyday life, we get through the difficult times more easily.
 >
-> Finally, eating. A balanced diet means vegetables, fruit, wholemeal food and less sugar — and not skipping breakfast, which is my biggest weakness. My mother cooks at home almost every day, so I'm lucky: home-cooked food is always healthier than fast food. As for fashionable diets, I don't believe in them; slow, small changes work better.
+> Finally, addictions. Smoking and vaping are still serious problems among teenagers, mostly because of peer pressure. In my opinion, phone addiction is just as real: it ruins our sleep, our eyes and our concentration. My cousin quit vaping last year with the help of sport, which proves that a new, positive habit is the best weapon against an old, bad one.
 >
-> All things considered, health is like money: you only understand its value when you start losing it. Thank you for listening.
+> All things considered, we only have one body, and prevention is the cheapest medicine. Thank you for listening.
 
 ---
 
 ## 6. Minta válaszok – ha másvalakiről beszélsz
 
-### a) Egészséges életmód – a nagypapád, a 78 éves "reklám"
+### a) Betegségek – a nagypapád és a cukorbetegség
 
-> My grandfather is seventy-eight, and his doctor calls him "the advertisement for a healthy lifestyle". He walks five kilometres every morning in any weather, he has never smoked, and his garden supplies him with vegetables all summer. He goes to bed at nine and gets up at five — even on Sundays. Of course, he jokes about it too: "The secret is not in the walking. The secret is that I never stopped walking." When I compare him with people half his age who can't climb the stairs, I understand what he means.
+> My grandfather has been living with diabetes for ten years, and at the beginning the diagnosis shocked the whole family. His doctor said it was a lifestyle disease — too much sugar, too little movement. Since then he has completely changed his life: he checks his blood sugar twice a day, walks five kilometres every morning, and my grandmother bakes him sugar-free cakes. At the last check-up the doctor said his values were better than many younger patients'. He jokes: "The illness was a good teacher — but I would have preferred a cheaper one."
 
-### b) Egészségtelen életmód – az osztálytársad, aki megijedt
+### b) Megelőzés – az édesanyád, a megelőzés királynője
 
-> My classmate Dani had the worst lifestyle in our class: chips for breakfast, energy drinks for lunch, and gaming until three in the morning. His marks dropped, he fell asleep in lessons, and at the school sports day he couldn't finish the 400 metres. The turning point was his sports medical check: the doctor told him, at sixteen, that his blood pressure was worse than his father's. That scared him. Now he walks to school, sleeps seven hours and drinks "only" one energy drink a day — a small change, but in the right direction.
+> In our family we call my mother "the minister of prevention". In flu season she puts vitamin C on the table like a decoration, she disinfects the door handles "just in case", and nobody in our house misses a vaccination or a dental check-up. During COVID she was the only person in the street who was actually calm — she said the habits were the same, only the virus was new. The funny thing is, she was right: my brother and I are almost never ill, and even my grandfather admits that her strict rules keep the whole family standing.
 
-### c) Egészséges és egészségtelen táplálkozás – a nagymamád vs. a nővéred
+### c) Függőségek – az unokatesóved, aki leszokott
 
-> My grandmother and my sister are the two opposite poles of eating in our family. My grandmother cooks everything at home: vegetable soup, home-grown tomatoes, and her famous Sunday chicken — she doesn't even own a food delivery app. My sister, on the other hand, lived on takeaway food and skipped breakfast completely during her exam period. When she moved back home for a month, my grandmother fed her like a hospital patient, and my sister admitted: she felt better after four weeks of home cooking than after a whole semester of pizza.
+> My cousin Marci started vaping at a party at fifteen, "just to try it" — and two years later he couldn't get through a school day without it. What made him quit was his little sister, who asked him why his vape smelled like candy if it was "adult stuff". He tried to stop three times: the first two attempts failed, but the third one worked, because he replaced vaping with training — every craving meant twenty press-ups. Now he says the physical addiction was over in a month, but beating the habit in his head took half a year.
 
-### d) Egy teljes tétel – az édesanyád egészségéve
+### d) Egy teljes tétel – a nénikéd, a nővér (ápolónő)
 
-> I would like to tell you the story of my mother's health year, because it shows all three points of this topic.
+> I would like to talk about my aunt Éva, who is a nurse, because she sees all three points of this topic every day at work.
 >
-> It started with an honest New Year's resolution — she was overweight, tired and always stressed.
+> First, diseases. She says in winter the hospital is full of flu and pneumonia patients, and the saddest cases are chronic diseases that people ignored for years.
 >
-> The unhealthy causes first: she sat eight hours at an office desk, ate chocolate in the evenings to reward herself, and slept six hours, because "there was no time for more".
+> As for prevention, she is the loudest fan of check-ups and vaccinations — she has seen what a "small" symptom can turn into. She always tells us: "Come to the hospital too late, not too early — I mean: come early!"
 >
-> Then the change. She started with small steps: she got off the bus two stops earlier and walked, then she joined a gym, and after three months she could run five kilometres. She also changed the family's eating: more vegetables, home cooking, and soft drinks only on Fridays.
+> Speaking about addictions, she sees the consequences every day: smokers' lungs, energy-drink hearts and, more and more, phone-addicted young people who can't sleep.
 >
-> The consequences after a year: she lost twelve kilos, her check-up results are perfect, and — the best part — my father and I joined her new lifestyle, too.
->
-> All things considered, my mother proved that a healthy lifestyle is not a sacrifice. It is a gift you give yourself. Thank you for listening.
+> All things considered, my aunt says medicine treats diseases, but only people themselves can prevent them. Thank you for listening.
 
 ### További kifejezések
 
+| English | Magyar |
+|---|---|
+| to have a temperature | láza van |
+| to look pale | sápadtnak tűnik |
+| to get better / worse | jobban / rosszabbul érezni magát |
+| to suffer from sth | szenved vmiben |
+| second-hand smoke | passzív dohányzás |
+| to set an example | példát mutatni |
+| to give up sth | leszokni vmiről |
+| to run in the family | családban öröklődik |
 
-| English          | Magyar                   |
-| ---------------- | ------------------------ |
-| in good shape    | jó formában              |
-| to catch a cold  | megfázni                 |
-| to recover       | felépülni                |
-| appetite         | étvágy                   |
-| to crave sth     | kívánni vmit (édességet) |
-| to burn calories | kalóriát égetni          |
-| moderation       | mértékletesség           |
-| to feel dizzy    | szédülni                 |
-
-
-> **Megjegyzés:** tipikus vitás vizsgakérdés: „Should junk food be banned in school canteens?" – felelj érv + ellenérv + saját döntés struktúrában.
+> **Megjegyzés:** tipikus vitás kérdés: „Should smoking be banned completely?" vagy „Is vaping less dangerous than smoking?" – felelj érv + ellenérv + döntés szerkezetben.
 
 ---
 
 ## 7. Tippek a vizsgára (Exam tips)
 
-- Tanácsadásnál használj *should/must/shouldn't*: *Teenagers should sleep eight hours. You mustn't skip breakfast.* – ez kötelező vizsganyelvtan itt.
-- Az ok-okozat láncot mondd ki: *If you don't sleep enough, your immune system gets weak, so you catch every cold.*
-- Vigyázz a tipikus magyar hibával: nem *„I am agree"*, hanem *„I agree"*.
-- Az étkezés szókincsnél számíts rá, hogy kérdeznek kedvenc ételedről – tudj 2-3 ételt angolul megnevezni és leírni.
+- A tünetek leírásához gyakorold a *have/get* szerkezeteket: *I have a sore throat, I've got a temperature, my head hurts*.
+- Tanácsadásnál kötelező a *should*: *You should stay in bed, you shouldn't go to school*.
+- Feltételes mondat: *If the fever doesn't go down in two days, go to the doctor.* – ez a tétel „tanácsadó" logikája.
+- Az addikcióknál mutass megoldást is, ne csak a problémát — a vizsgáztató a konstruktív hozzáállást szereti.

@@ -1,106 +1,118 @@
-# Recreation – B szintű szóbeli tétel
+# Learning, education, school system – B szintű szóbeli tétel
 
 ## 1. Tétel és vezérfonal
 
-**Topic: Recreation**
+**Topic: Learning, education, school system**
 
-- clubs
-- social gatherings
-- hobbies (pets, computer and other games)
-- other ways to relax
+- school types in Hungary
+- online education, learning
+- school experiences
+- other opportunities for learning and further education
+- student exchange, student mobility
 
 ---
 
 ## 2. Vezető kérdések (vizsgáztatói kérdések)
 
-### Clubs
+### School types in Hungary
 
-- Are you a member of any club?
-- What clubs or hobby groups are there in your school or town?
-- What are the advantages of club life?
-- Would you like to set up a club yourself?
+- What types of schools are there in Hungary?
+- Which school do you attend? What is it like?
+- What are the advantages of a grammar school and of a vocational school?
+- What happens after primary school in Hungary?
 
-### Social gatherings
+### Online education, learning
 
-- How do you spend time with your friends?
-- Do you prefer small or big gatherings?
-- What do you usually do at parties?
-- Do you like celebrating at home or going out?
+- What was online education like for you?
+- What are the advantages and disadvantages of learning from home?
+- What do you need for successful online learning?
+- Would you like to study online in the future?
 
-### Hobbies (pets, games)
+### School experiences
 
-- What are your hobbies?
-- Do you have a pet? What is it like?
-- Do you play computer games? How much is too much?
-- What board games do you know?
+- What is your best and worst school memory?
+- Who was your favourite teacher and why?
+- What school events do you remember best?
+- What would you change in your school?
 
-### Other ways to relax
+### Other opportunities for learning
 
-- How do you relax after a stressful day?
-- Do you prefer active or passive relaxation?
-- What do you do at the weekends?
-- Why is it important to have a hobby?
+- What can you do after secondary school?
+- What is lifelong learning?
+- Where can adults study?
+- Why do adults go to evening courses?
+
+### Student exchange, student mobility
+
+- What do you know about the Erasmus programme?
+- Have you ever taken part in a student exchange?
+- What are the advantages of studying abroad?
+- Would you like to spend a semester abroad?
 
 ---
 
 ## 3. Hasznos szókincs (Useful vocabulary)
 
-### Clubs
+### School types
 
+| English | Magyar |
+|---|---|
+| kindergarten | óvoda |
+| primary school | általános iskola |
+| grammar school | gimnázium |
+| vocational school | szakképző iskola |
+| school-leaving exam (érettségi) | érettségi |
+| to attend a school | iskolába járni |
+| form / class | osztály |
+| timetable | órarend |
 
-| English                | Magyar                  |
-| ---------------------- | ----------------------- |
-| to join a club         | csatlakozni egy klubhoz |
-| member                 | tag                     |
-| to attend              | jár, látogat            |
-| to set up / found      | alapítani               |
-| club meeting           | klubösszejövetel        |
-| hobby group (szakkör)  | iskolai szakkör         |
-| to be in charge of sth | felelős vmiért          |
+### Online education
 
+| English | Magyar |
+|---|---|
+| distance learning | távoktatás |
+| to log in | bejelentkezni |
+| video lesson | videóóra |
+| to hand in homework | beadni a házi feladatot |
+| to be easily distracted | könnyen elterelődik a figyelme |
+| reliable internet connection | megbízható internetkapcsolat |
+| to focus / concentrate | koncentrálni |
 
-### Social gatherings
+### School experiences
 
+| English | Magyar |
+|---|---|
+| school trip | osztálykirándulás |
+| sports day | sportnap |
+| test | dolgozat |
+| to pass / to fail | átmegy / megbukik |
+| school report | bizonyítvány |
+| to graduate | érettségizni |
+| to get on well with sb | jól kijönni vkivel |
 
-| English             | Magyar         |
-| ------------------- | -------------- |
-| to hang out with sb | lógni vkivel   |
-| house party         | lakásbuli      |
-| barbecue            | grillparti     |
-| to invite sb        | meghívni vkit  |
-| guest               | vendég         |
-| sleepover           | alszós buli    |
-| to throw a party    | bulit rendezni |
+### Further education
 
+| English | Magyar |
+|---|---|
+| university | egyetem |
+| further education | továbbtanulás |
+| degree | diploma (fokozat) |
+| evening course | esti tanfolyam |
+| adult education | felnőttképzés |
+| retraining | átképzés |
+| lifelong learning | egész életen át tartó tanulás |
 
-### Hobbies
+### Student exchange
 
-
-| English              | Magyar                    |
-| -------------------- | ------------------------- |
-| pet                  | háziállat, kedvenc        |
-| to walk the dog      | kutyát sétáltatni         |
-| to look after sb/sth | gondoskodni vkiről/vmiről |
-| strategy game        | stratégiai játék          |
-| multiplayer          | többjátékos               |
-| board game           | társasjáték               |
-| to beat sb           | legyőzni vkit             |
-| to collect sth       | gyűjteni vmit             |
-
-
-### Relaxation
-
-
-| English                     | Magyar                    |
-| --------------------------- | ------------------------- |
-| to unwind                   | kikapcsolódni             |
-| to recharge one's batteries | feltöltődni               |
-| stressful                   | stresszes                 |
-| to switch off               | kikapcsolni (agyat)       |
-| to go for a walk            | sétálni menni             |
-| active / passive relaxation | aktív / passzív pihenés   |
-| to be hooked on sth         | megszállottan csinál vmit |
-
+| English | Magyar |
+|---|---|
+| exchange student | csereprogram-diák |
+| host family | befogadó család |
+| scholarship | ösztöndíj |
+| semester | félév |
+| to broaden one's horizons | tágítja a látókörét |
+| to apply for a programme | pályázni egy programra |
+| to become independent | önállóvá válni |
 
 ---
 
@@ -118,74 +130,76 @@
 
 ## 5. Minta felelet (Sample monologue)
 
-> Today I would like to talk about recreation: clubs, meeting friends, hobbies and relaxation.
+> Today I would like to talk about learning and the Hungarian school system.
 >
-> First of all, clubs. I am a member of our school football club, and I attend training twice a week. In my opinion, club life is very useful: it teaches discipline and teamwork, and the club becomes a second family.
+> First of all, school types. In Hungary children go to kindergarten, then to primary school for eight years. After that they choose a secondary school: a grammar school, which prepares them for university, or a vocational school, which teaches a profession. I attend a grammar school, and at the end I will take the school-leaving exam, called érettségi.
 >
-> As for social gatherings, I usually hang out with my classmates at weekends. We prefer smaller groups, because it is easier to talk. In summer we throw garden parties and barbecues at my place, and in winter we organise film evenings or board game afternoons.
+> As for online education, during the pandemic we had distance learning for months. I liked sleeping longer and getting up later, but it was hard to concentrate at home, and I really missed my classmates. So I prefer normal school, but I would be happy to have some online lectures at university.
 >
-> Speaking about hobbies, I have two. The first is our dog, Morzsa — walking him is my job, and it is a hobby and a duty at the same time. My other hobby is playing a multiplayer strategy game with my classmates online. I know some people say gaming is a waste of time, but I think it improves my English and my tactics — of course, only in moderation.
+> Speaking about school experiences, my best memory is our class trip to the mountains in the eighth grade, and my favourite teacher is my English teacher, because she makes every lesson fun.
 >
-> Finally, relaxation. After a stressful day I unwind by walking the dog or listening to music. I prefer active relaxation, because sport recharges my batteries better than lying on the sofa.
+> As for further education, after the érettségi I would like to go to university. In my opinion, learning never stops — my mother still attends courses, which is called lifelong learning.
 >
-> All things considered, I think free time is only enjoyable if you fill it with things you really love. Thank you for listening.
+> Finally, student exchange. My sister spent a semester in the Netherlands with the Erasmus programme, and she says it made her independent and broadened her horizons. I would love to try it too.
+>
+> All things considered, I believe the school system is not perfect, but education is the best investment in our future. Thank you for listening.
 
 ---
 
 ## 6. Minta válaszok – ha másvalakiről beszélsz
 
-### a) Klubok – a nővéred táncklubja
+### a) Iskolatípusok – a bátyád, aki szakmát tanult
 
-> My sister has been a member of a folk dance club for six years, and it changed her whole life. She attends rehearsals three times a week, and at the weekend the group performs at festivals and town events. Through the club she made her best friends, she has travelled to five countries, and last year she was put in charge of the costumes. My parents say the member fee is the best money they spend every month — and I secretly agree, because the club taught her more discipline than ten school reports.
+> My brother didn't go to grammar school — he chose a vocational school, because he has always been good with his hands. He trained to be an electrician, and while my classmates were learning algebra, he was already earning money repairing things for the neighbours. Some people said a trade school was "the easy way", but he proved them wrong: his final exam was just as hard as the érettségi, and now he has a job while half of my class is still deciding what to do with their lives.
 
-### b) Társas összejövetelek – a nagynénéd vasárnapi ebédjei
+### b) Online oktatás – az osztálytársad, akinek káoszból rend lett
 
-> My aunt's Sunday lunches are legendary in our family. Every second Sunday about fifteen relatives gather around her table, and nobody is allowed to leave hungry. The children play football in the garden, the adults argue about politics and football, and my aunt moves between the kitchen and the terrace like the manager of a small restaurant. She says a family is like a plant: if you don't water it regularly, it dies. These gatherings are the "watering" — and I think she is right.
+> My classmate Peti was famous for never doing his homework — until online education started. Surprisingly, he became one of the best students in the class: he logged in to every lesson on time and handed in everything, because at home nobody distracted him with jokes and paper planes. On the other hand, our form teacher struggled with the technology — we will never forget the lesson when her cat walked across the keyboard. So online learning was a miracle for some students and a disaster for others.
 
-### c) Hobbik, háziállat – a barátod és a két kutyája
+### c) Iskolai élmények – az édesapád régi iskolái
 
-> My friend Bendegúz has two dogs and a cat, and his whole free time revolves around them. He walks the dogs together every afternoon — rain or shine —, he trains them in the park, and he even saves money for dog treats instead of games. Some people think it's too much, but he says the dogs made him more responsible: you cannot sleep in when two tails are banging against your door at six in the morning. His dream is to become a dog trainer, and honestly, I believe he will.
+> My father always tells the same stories about his school years, and he never gets tired of them. His favourite teacher was an old maths teacher who was strict but fair — "he treated the class like his own children", my father says. His best memory is a five-day school trip to the mountains, when the bus broke down and the class sang songs on the road for three hours. He also admits he failed two maths tests in a row that year — so his stories always end with the same advice: "School is over one day, but what you learn stays with you."
 
-### d) Kikapcsolódás – a nagypapád, a horgász
+### d) Továbbképzés – az édesanyád, aki negyvenévesen átképezte magát
 
-> My grandfather has been fishing for forty years, and he says it is better than any medicine. He sits at the lake from dawn, in complete silence, and — as he jokes — "sometimes a fish also comes". My grandmother used to be angry about the "wasted" weekends, but then she noticed that after a fishing day he comes home calm and smiling. Now she says everyone should find their own lake — a place where time stops. For me, that sentence is the best definition of relaxation.
+> My mother worked in a shop for twenty years, and when the shop closed down, everybody thought it was a tragedy. Instead, she enrolled in an evening course and retrained as an accountant — at the age of forty-two. She studied every night after dinner, and my father did the cooking for a year. Now she has an office job and she says the closing of the shop was the best thing that ever happened to her. She is living proof of lifelong learning: it is never too late to start again.
 
-### e) Egy teljes tétel – a nagymamád, a legfoglaltabb nyugdíjas
+### e) Egy teljes tétel – a nővéred, az Eramus-osztály
 
-> I would like to talk about my grandmother, because at seventy she has a more colourful free-time life than anyone I know.
+> I would like to tell you the story of my sister's studies, because her path shows all the points of this topic.
 >
-> First, clubs. She is a member of the local retirees' club and a choir: they rehearse every Thursday and sing at every town celebration.
+> First, the school system: she went to the same grammar school as me, and passed her érettségi with excellent marks.
 >
-> As for social gatherings, her house is the family meeting point — every big occasion ends in her kitchen, and she organises a name-day gathering for each of her four grandchildren.
+> As for online learning, at university she had online lectures during the pandemic too — she says waking up at 7:55 for an 8 o'clock lecture was the greatest invention of the century.
 >
-> Speaking about hobbies, she has a beautiful garden and an old cat called Cirmi, and she collects recipes — she has four handwritten books full of them.
+> Her best school experience was the university's fresher camp, where she met her best friends.
 >
-> Finally, relaxation: in the evenings she watches her favourite series with a cup of herbal tea, and she says that after seventy years of hard work, she has earned every minute of it.
+> Speaking about further education, she studies economics, and last year she applied for a scholarship — successfully.
 >
-> All things considered, my grandmother proves that recreation is not about age, but about attitude. Thank you for listening.
+> Finally, student mobility: she spent a whole semester in the Netherlands with the Erasmus programme. She lived in a student flat with three foreign students, became independent, and now she plans to work abroad for a few years.
+>
+> All things considered, my sister's story proves that education is not a straight road — and that is the beauty of it. Thank you for listening.
 
 ### További kifejezések
 
+| English | Magyar |
+|---|---|
+| to take an exam | vizsgázni |
+| to revise for a test | készülni egy dolgozatra |
+| marks / grades | jegyek |
+| to fall behind | lemaradni |
+| to catch up | felzárkózni |
+| compulsory | kötelező |
+| school year | tanév |
+| to play truant | lógni az órákról |
 
-| English                | Magyar                  |
-| ---------------------- | ----------------------- |
-| to take up a hobby     | belekezdeni egy hobbiba |
-| free time / spare time | szabadidő               |
-| to socialise           | társasági életet élni   |
-| to have fun            | jól szórakozni          |
-| to get together        | összejönni              |
-| to be keen on sth      | rajongani vmiért        |
-| rain or shine          | bármilyen időben        |
-| in moderation          | mértékkel               |
-
-
-> **Megjegyzés:** a számítógépes játékoknál a vizsgáztató szinte garantáltan rákérdez: „Aren't computer games addictive?" – készülj kiegyensúlyozott válaszal (előny: angol, csapatjáték; hátrány: függőség, szem).
+> **Megjegyzés:** a vizsgáztató kérheti, hogy egy külföldinek magyarázd el a magyar iskolarendszert – gyakorold be a „útvonalat": *kindergarten → primary school → secondary school → érettségi*.
 
 ---
 
 ## 7. Tippek a vizsgára (Exam tips)
 
-- Gyakorisági határozókat tegyél a szokásokhoz: *twice a week, every other Sunday, now and then* – ez vizsgán "príma" nyelvi jel.
-- A gaming-témánál mutass kiegyensúlyozott véleményt: előny + hátrány + saját szabály („only at weekends").
-- Háziállatnál használj tréfás képeket is (*two tails banging against the door*) – a humor természetessé teszi a beszédet.
-- A „clubs" pontnál ha nem tagja egy klubnak sem, mondd, mit *would like to join* és miért.
+- Készülj számokkal: hány éves kortól, hány év, hány óra naponta – a pontos adatok hitelesítik a feleletet.
+- Iskolai emlékeknél múlt időt kell használnod – gyakorold: *We went…, Our teacher took us…, I will never forget…*.
+- A terveidnél használj *would like to, I'm planning to, I hope I will* szerkezeteket – ez a jövő kifejezésének vizsgapontja.
+- Az *érettségi* szót nyugodtan mondhatod magyarul, de az iskolatípusokat angolul tudnod kell.

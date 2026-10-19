@@ -1,86 +1,103 @@
-# Work and society – B szintű szóbeli tétel
+# Sport – B szintű szóbeli tétel
 
 ## 1. Tétel és vezérfonal
 
-**Topic: Work and society**
+**Topic: Sport**
 
-- trendy professions, dream job, professions in high demand
-- job search
-- new entrants to the labour market
+- individual and group sports facilities, sports equipment
+- the examinee's sports activities, favourite sports
+- sports competitions
+- extreme sports
 
 ---
 
 ## 2. Vezető kérdések (vizsgáztatói kérdések)
 
-### Trendy professions, dream job, professions in high demand
+### Sports facilities and equipment
 
-- Which professions are trendy these days?
-- What is your dream job and why?
-- Which professions are in high demand in Hungary?
-- Would you rather have a trendy job or a "safe" one?
+- What sports facilities are there in your town?
+- What equipment do you need for your favourite sport?
+- Where can young people do sports in your area?
+- Are the facilities in good condition?
 
-### Job search
+### Your sports activities, favourite sports
 
-- How do people look for jobs today?
-- What should a good CV contain?
-- What happens at a job interview?
-- What questions would YOU ask at an interview?
+- What sports do you do?
+- How often do you train?
+- Do you prefer individual or team sports? Why?
+- Why is sport important in your life?
 
-### New entrants to the labour market
+### Sports competitions
 
-- Is it difficult to find your first job?
-- How can young people gain experience?
-- What do employers expect from school leavers?
-- Should schools prepare students better for work?
+- Have you ever taken part in a competition?
+- Do you like watching matches? Which ones?
+- What was your most memorable match or race?
+- Is professional sport too much pressure for young athletes?
+
+### Extreme sports
+
+- What extreme sports do you know?
+- Why do people do extreme sports?
+- Would you try one? Which one?
+- Are extreme sports dangerous or just exciting?
 
 ---
 
 ## 3. Hasznos szókincs (Useful vocabulary)
 
-### Professions
+### Facilities and equipment
 
+| English | Magyar |
+|---|---|
+| facilities | létesítmények |
+| stadium | stadion |
+| swimming pool | uszoda, medence |
+| sports hall | sportcsarnok |
+| court | pálya (tenisz, kosárlabda) |
+| gym | edzőterem, fitnesszem |
+| equipment | felszerelés |
+| trainers | sportcipő |
+| helmet | sisak, bukósisak |
+| racket | ütő |
 
-| English             | Magyar                      |
-| ------------------- | --------------------------- |
-| profession          | szakma                      |
-| trendy              | divatos, menő               |
-| in high demand      | keresett                    |
-| dream job           | álommunka                   |
-| shortage of workers | munkaerőhiány               |
-| IT specialist       | IT-szakember                |
-| skilled / unskilled | szakképzett / szakképzetlen |
-| influencer          | influenszer                 |
+### Sports activities
 
+| English | Magyar |
+|---|---|
+| to keep fit | formában maradni |
+| to train | edzeni |
+| coach | edző |
+| to go jogging | kocogni |
+| warm-up | bemelegítés |
+| to work out | edzeni (fitnesz) |
+| team sport | csapatsport |
+| to be a fan of a team | rajongani egy csapatért |
 
-### Job search
+### Competitions
 
+| English | Magyar |
+|---|---|
+| match | meccs |
+| championship | bajnokság |
+| to win a medal | érmet nyerni |
+| to break a record | rekordot dönteni |
+| to cheer for a team | szurkolni egy csapatnak |
+| fan | szurkoló |
+| referee | játékvezető |
+| score | pontállás, eredmény |
 
-| English                   | Magyar                    |
-| ------------------------- | ------------------------- |
-| to look for a job         | állást keresni            |
-| job advertisement         | álláshirdetés             |
-| CV                        | önéletrajz                |
-| motivational letter       | motivációs levél          |
-| to apply for a job        | álláspályázni             |
-| job interview             | állásinterjú              |
-| to hire sb                | felvesz vkit munkatársnak |
-| to make a good impression | jó benyomást tenni        |
+### Extreme sports
 
-
-### New entrants
-
-
-| English            | Magyar                                         |
-| ------------------ | ---------------------------------------------- |
-| school leaver      | friss végzős                                   |
-| to gain experience | tapasztalatot szerezni                         |
-| internship         | szakmai gyakorlat                              |
-| career start       | pályakezdés                                    |
-| employer           | munkáltató                                     |
-| expectations       | elvárások                                      |
-| soft skills        | „emberi" készségek (kommunikáció, csapatmunka) |
-| references         | ajánlások, referenciák                         |
-
+| English | Magyar |
+|---|---|
+| extreme sports | extrém sportok |
+| bungee jumping | bungee jumping (kötélugrás) |
+| paragliding | paragliding (siklóernyőzés) |
+| skydiving | ejtőernyőzés |
+| rock climbing | sziklamászás |
+| rafting | vadvízi evezés |
+| to take risks | kockázatot vállalni |
+| safety rules | biztonsági szabályok |
 
 ---
 
@@ -98,68 +115,72 @@
 
 ## 5. Minta felelet (Sample monologue)
 
-> Today I would like to talk about work and society: trendy and wanted professions, job hunting, and starting a career.
+> Today I would like to talk about sport: facilities, my own activities, competitions and extreme sports.
 >
-> First of all, trendy professions. Today everybody talks about IT jobs, marketing and, of course, being an influencer. However, in Hungary the professions in the highest demand are doctors, nurses, electricians and mechanics — jobs that are not "trendy" on social media, but society cannot work without them. My dream job is to be a game developer, which luckily belongs to the trendy category.
+> First of all, facilities. Our town has a stadium with a running track, an indoor swimming pool and a new sports hall, where we have our PE lessons. The equipment for my favourite sport, football, is simple: trainers, shin guards and a ball — that is one reason why it is so popular.
 >
-> As for job search, everything happens on the internet today: people read job advertisements on websites, send their CVs and motivational letters, and then go for an interview. I think a good CV should be short, honest and without mistakes.
+> As for my own sports, I play football in a team: we train twice a week and have a match at weekends. I prefer team sports to individual ones, because they teach cooperation, and winning together feels twice as good. What is more, sport keeps me fit and clears my head before exams.
 >
-> Finally, new entrants. Starting a career is difficult, because of the famous vicious circle: you need experience to get a job, but you need a job to get experience. Student work and internships are the way out. In my opinion, schools should teach more soft skills, like communication and teamwork.
+> Speaking about competitions, I will never forget last year's school championship: we reached the final, and although we lost two-one, it was the best match of my life. My father and I also watch the national team's matches together on TV.
 >
-> All things considered, I believe the labour market is changing fast — maybe because of AI —, but one thing never changes: reliable, skilled people will always be needed. Thank you for listening.
+> Finally, extreme sports. I find bungee jumping and paragliding exciting, but too dangerous for me — I would maybe try indoor climbing, which is extreme but safe. I think people do these sports because of the adrenaline and the feeling of overcoming fear.
+>
+> All things considered, sport is not about medals but about health, friends and learning never to give up. Thank you for listening.
 
 ---
 
 ## 6. Minta válaszok – ha másvalakiről beszélsz
 
-### a) Divatos szakmák – az unokatesóved influenszer-kísérlete
+### a) Létesítmények – a nagymamád emlékei a régi uszodáról
 
-> My cousin Marci decided at seventeen that he would become an influencer. He made videos for a year: unboxing, gaming, even cooking — and he ended up with exactly 127 followers, most of them relatives. It sounds like a failure, but it wasn't: he learned video editing, speaking to a camera and social media marketing. Today he works for an advertising company, and his boss says he is their most creative employee. His story taught me that a "failed" trendy dream can be the best training for a real profession.
+> My grandmother still remembers the town's old open-air swimming pool, which was built in the sixties: one pool, cold water, and so many people on hot days that "you couldn't fall into the water even if you wanted to". The pool was closed years ago, and I only know our modern indoor pool with heated water and a slide. When my grandmother visited me there, she laughed: "We had one pool and everyone knew each other. You have three pools and nobody talks to anyone." Both eras have something the other misses.
 
-### b) Álláskeresés – a nővéred interjúja
+### b) Sportolás – az öcséd karatéja
 
-> Last year my sister applied for her first real job, and I watched the whole process like a series. She wrote nine versions of her CV, studied the company's website for two days, and prepared answers to typical interview questions. At the interview they asked about her weaknesses, and she answered that she was "too much of a perfectionist" — the classic answer. She also asked them two clever questions about training possibilities, and later the manager admitted that this made the difference: she got the job.
+> My little brother has been doing karate for four years, and it changed his personality completely. He used to give up on everything after two days — now he trains three times a week and never skips. Karate is an individual sport, so all the pressure is on him: nobody passes the ball to him, and nobody else is responsible for the result. His sensei taught him respect, discipline and patience, and my mother says those lessons are worth more than the medals — although he has already collected eleven of those, too.
 
-### c) Pályakezdés – a bátyád és az ördögi kör
+### c) Versenyek – az édesapád maratonja
 
-> After graduation, my brother sent out forty applications in three months. The answer was always the same: "We are sorry, but you don't have enough experience." It made no sense to him: how could he have experience, if nobody gave him a first chance? The way out was an internship — three months without real pay, but with references and practice. Six months later, two companies competed for him. His advice for beginners is simple: "Take the internship. Complaining about the vicious circle won't break it."
+> My father ran his first marathon at forty-two, and the whole family followed the story for a year. He trained at five in the morning before work, in rain and in snow, and there were days when his knees hurt so much that my mother wanted to forbid the whole project. On the race day we waited for him at the fortieth kilometre, and when he ran past us, he wasn't fast, but he was smiling like an Olympic champion. He finished in four and a half hours — and he says finishing was the greatest victory of his life.
 
-### d) Egy teljes tétel – az unokatesóved útja az első állásáig
+### d) Extrém sportok – az unokatesóved, a paraglidinges
 
-> I would like to tell you how my cousin Eszter found her first job, because her story covers every point of this topic.
+> My cousin Ádám does paragliding, and in our family he is treated either as a hero or as a madman. He jumps off hills with a huge wing above his head, and he says the first thirty seconds of fear are followed by absolute silence and freedom. He never jumps without checking the weather twice and without his safety equipment, because — as his instructor says — "extreme sports are for managing risk, not for ignoring it". My grandmother still hides his parachute bag when she visits.
+
+### e) Egy teljes tétel – az unokatesóved, az adrenalinmániás
+
+> I would like to talk about my cousin Ádám, because his life is basically this exam topic.
 >
-> First, the profession. She studied graphic design — a trendy field, but also crowded, so the competition was hard.
+> First, facilities and equipment. He trains at a climbing gym in winter and on real rock walls in summer — his equipment list is longer than my school bag: helmet, ropes, carabiners and special shoes.
 >
-> Her job search was modern: she didn't only send CVs, but built an online portfolio and followed her favourite studios on social media. When one of them advertised an internship, she applied within an hour.
+> His main sport is rock climbing, which is individual, but he also loves skateboarding with friends.
 >
-> The interview was difficult — they gave her a design task with a deadline —, but her portfolio did the talking.
+> Speaking about competitions, last autumn he took part in a regional climbing cup and finished third — he says the competition was not against the others, but against the wall and himself.
 >
-> As a new entrant, she started with a three-month internship, learned how a real studio works, and now, two years later, she is a full-time designer.
+> And yes, extreme sports: paragliding. He calls the fear "the entrance fee for the freedom", and he always pays the safety fee first.
 >
-> All things considered, Eszter's story proves that today you don't just find a job — you build one. Thank you for listening.
+> All things considered, Ádám taught me that sport can be more than a hobby — it can be a way of seeing the world. Thank you for listening.
 
 ### További kifejezések
 
+| English | Magyar |
+|---|---|
+| to take up a sport | elkezdeni egy sportot |
+| fit / unfit | fitt / gyenge kondícióban |
+| to pull a muscle | izmot húz (sérülés) |
+| to score a goal | gólt lőni |
+| fair play | sportszerű játék |
+| to give up | feladni |
+| to be out of breath | kifulladni |
+| fan zone | szurkolói zóna |
 
-| English            | Magyar                      |
-| ------------------ | --------------------------- |
-| labour market      | munkaerőpiac                |
-| unemployment       | munkanélküliség             |
-| to lay sb off      | elbocsátani vkit            |
-| to be unemployed   | munkanélküli lenni          |
-| wages              | bérek                       |
-| dead-end job       | zsákutcás állás             |
-| to replace workers | kiváltani a munkavállalókat |
-| work permit        | munkavállalási engedély     |
-
-
-> **Megjegyzés:** korszerű, garantáltan felmerülő kérdés: „Which jobs will AI replace?" – készülj kiegyensúlyozott válasszal (rutinfeladatok igen, kreativitás és emberi kapcsolatok nehezen).
+> **Megjegyzés:** gyakori rákérdezés: „Should PE be compulsory?" vagy „Is football too commercial?" – mindkettőhöz készülj érvekkel, és fejezd be saját véleménnyel.
 
 ---
 
 ## 7. Tippek a vizsgára (Exam tips)
 
-- Álommunkádnál használj feltételest: *If I got this job, I would…* – nyelvtani és tartalmi pont egyben.
-- A divatos vs. „biztos" szakmáknál mutasd a kétféle szempontot: *on the one hand trendy jobs are exciting, on the other hand…*
-- Az interjúnál készülj 2-3 kérdéssel, amit TE tennél fel a munkáltatónak – ezt szinte mindig megkérdezik.
-- Kerüld a „Hungarian English"-et: nem *„I look for a job now"*, hanem *„I'm looking for a job"*.
+- Edzés-szokásaidnál jelen időt + gyakoriságot használj: *I train twice a week, we usually play on Saturdays* – ez alappont.
+- Az emlékezetes meccs történetéhez múlt idő kell: *We won 2–1, I scored the first goal* – gyakorold a rendhagyó igéket (*win–won, lose–lost*).
+- Egyéni vs. csapatsport: ez összehasonlítás – használd: *more relaxing than, as exciting as, not as lonely as*.
+- Az extrém sportoknál a válasz kulcsszava a mérlegelés: *exciting, but…* + *safety rules*.

@@ -1,106 +1,80 @@
-# Recreation – B szintű szóbeli tétel
+# Foreign languages, language learning – B szintű szóbeli tétel
 
 ## 1. Tétel és vezérfonal
 
-**Topic: Recreation**
+**Topic: Foreign languages, language learning**
 
-- clubs
-- social gatherings
-- hobbies (pets, computer and other games)
-- other ways to relax
+- the role of and need for foreign languages
+- language learning opportunities
+- language learning experiences and methods
 
 ---
 
 ## 2. Vezető kérdések (vizsgáztatói kérdések)
 
-### Clubs
+### The role of and need for foreign languages
 
-- Are you a member of any club?
-- What clubs or hobby groups are there in your school or town?
-- What are the advantages of club life?
-- Would you like to set up a club yourself?
+- Why is it important to speak foreign languages?
+- Which languages are the most useful in the world, and in Hungary?
+- Do you think English will remain the world language?
+- Is language knowledge important for your future career?
 
-### Social gatherings
+### Language learning opportunities
 
-- How do you spend time with your friends?
-- Do you prefer small or big gatherings?
-- What do you usually do at parties?
-- Do you like celebrating at home or going out?
+- Where can you learn languages?
+- What do you think about language learning apps?
+- Are private lessons better than group courses?
+- How can the internet and TV help you learn?
 
-### Hobbies (pets, games)
+### Language learning experiences and methods
 
-- What are your hobbies?
-- Do you have a pet? What is it like?
-- Do you play computer games? How much is too much?
-- What board games do you know?
-
-### Other ways to relax
-
-- How do you relax after a stressful day?
-- Do you prefer active or passive relaxation?
-- What do you do at the weekends?
-- Why is it important to have a hobby?
+- How long have you been learning English?
+- What methods do you use to learn a language?
+- What was your best or funniest experience with English?
+- How do you prepare for a language exam?
 
 ---
 
 ## 3. Hasznos szókincs (Useful vocabulary)
 
-### Clubs
+### The role of languages
 
+| English | Magyar |
+|---|---|
+| world language | világnyelv |
+| mother tongue | anyanyelv |
+| to be fluent in a language | folyékonyan beszél egy nyelvet |
+| to communicate | kommunikálni |
+| bilingual | kétnyelvű |
+| career opportunities | karrierlehetőségek |
+| to understand each other | megérteni egymást |
+| language barrier | nyelvi korlát |
 
-| English                | Magyar                  |
-| ---------------------- | ----------------------- |
-| to join a club         | csatlakozni egy klubhoz |
-| member                 | tag                     |
-| to attend              | jár, látogat            |
-| to set up / found      | alapítani               |
-| club meeting           | klubösszejövetel        |
-| hobby group (szakkör)  | iskolai szakkör         |
-| to be in charge of sth | felelős vmiért          |
+### Language learning opportunities
 
+| English | Magyar |
+|---|---|
+| language school | nyelviskola |
+| private teacher | magántanár |
+| language course | nyelvtanfolyam |
+| language learning app | nyelvtanuló alkalmazás |
+| exchange programme | csereprogram |
+| native speaker | anyanyelvi beszélő |
+| coursebook | tankönyv |
+| summer course | nyári tanfolyam |
 
-### Social gatherings
+### Experiences and methods
 
-
-| English             | Magyar         |
-| ------------------- | -------------- |
-| to hang out with sb | lógni vkivel   |
-| house party         | lakásbuli      |
-| barbecue            | grillparti     |
-| to invite sb        | meghívni vkit  |
-| guest               | vendég         |
-| sleepover           | alszós buli    |
-| to throw a party    | bulit rendezni |
-
-
-### Hobbies
-
-
-| English              | Magyar                    |
-| -------------------- | ------------------------- |
-| pet                  | háziállat, kedvenc        |
-| to walk the dog      | kutyát sétáltatni         |
-| to look after sb/sth | gondoskodni vkiről/vmiről |
-| strategy game        | stratégiai játék          |
-| multiplayer          | többjátékos               |
-| board game           | társasjáték               |
-| to beat sb           | legyőzni vkit             |
-| to collect sth       | gyűjteni vmit             |
-
-
-### Relaxation
-
-
-| English                     | Magyar                    |
-| --------------------------- | ------------------------- |
-| to unwind                   | kikapcsolódni             |
-| to recharge one's batteries | feltöltődni               |
-| stressful                   | stresszes                 |
-| to switch off               | kikapcsolni (agyat)       |
-| to go for a walk            | sétálni menni             |
-| active / passive relaxation | aktív / passzív pihenés   |
-| to be hooked on sth         | megszállottan csinál vmit |
-
+| English | Magyar |
+|---|---|
+| to take a language exam | nyelvvizsgázni |
+| vocabulary | szókincs |
+| to learn by heart | fejből megtanulni |
+| to revise | ismételni, felfrissíteni |
+| to watch sth with subtitles | felirattal nézni vmit |
+| to make mistakes | hibázni |
+| pronunciation | kiejtés |
+| to take notes | jegyzetelni |
 
 ---
 
@@ -118,74 +92,66 @@
 
 ## 5. Minta felelet (Sample monologue)
 
-> Today I would like to talk about recreation: clubs, meeting friends, hobbies and relaxation.
+> Today I would like to talk about foreign languages and language learning.
 >
-> First of all, clubs. I am a member of our school football club, and I attend training twice a week. In my opinion, club life is very useful: it teaches discipline and teamwork, and the club becomes a second family.
+> First of all, the role of languages. English is the world language today: without it you cannot get a good job, travel easily or even understand half of the internet. In Hungary English is the most useful language, and German is the second, because of our Austrian neighbours and the many Hungarian people working in Germany. I think language knowledge is the key to career opportunities — my parents always say that a language is worth as much as a diploma.
 >
-> As for social gatherings, I usually hang out with my classmates at weekends. We prefer smaller groups, because it is easier to talk. In summer we throw garden parties and barbecues at my place, and in winter we organise film evenings or board game afternoons.
+> As for opportunities, you can learn languages at school, at a language school, with a private teacher, or simply on your phone. I use a language learning app every day, and it works — it feels like a game, but you learn real words.
 >
-> Speaking about hobbies, I have two. The first is our dog, Morzsa — walking him is my job, and it is a hobby and a duty at the same time. My other hobby is playing a multiplayer strategy game with my classmates online. I know some people say gaming is a waste of time, but I think it improves my English and my tactics — of course, only in moderation.
+> Speaking about my own experiences and methods, I have been learning English since I was six. My methods are simple: I watch films with subtitles, I play video games in English, and I try to read the lyrics of my favourite songs. My funniest experience happened at Lake Balaton, where a tourist asked me the way, and I answered — and she understood me! That moment gave me more confidence than five years of tests.
 >
-> Finally, relaxation. After a stressful day I unwind by walking the dog or listening to music. I prefer active relaxation, because sport recharges my batteries better than lying on the sofa.
->
-> All things considered, I think free time is only enjoyable if you fill it with things you really love. Thank you for listening.
+> All things considered, learning a language is hard work, but it is worth every minute. Thank you for listening.
 
 ---
 
 ## 6. Minta válaszok – ha másvalakiről beszélsz
 
-### a) Klubok – a nővéred táncklubja
+### a) A nyelvek szerepe – az édesapád, aki negyvenévesen kezdett el angolul tanulni
 
-> My sister has been a member of a folk dance club for six years, and it changed her whole life. She attends rehearsals three times a week, and at the weekend the group performs at festivals and town events. Through the club she made her best friends, she has travelled to five countries, and last year she was put in charge of the costumes. My parents say the member fee is the best money they spend every month — and I secretly agree, because the club taught her more discipline than ten school reports.
+> My father worked as a bus driver for twenty years, and he always said he was "too old for languages". Then his company got new buses with English software, and he was the only driver who couldn't use them. He was so embarrassed that he started an evening course at the age of forty. Now he watches YouTube videos in English and translates jokes for his colleagues. He says his biggest lesson wasn't the English — it was learning that it is never too late to start.
 
-### b) Társas összejövetelek – a nagynénéd vasárnapi ebédjei
+### b) Lehetőségek – a nővéred, aki sorozatokból tanult spanyolul
 
-> My aunt's Sunday lunches are legendary in our family. Every second Sunday about fifteen relatives gather around her table, and nobody is allowed to leave hungry. The children play football in the garden, the adults argue about politics and football, and my aunt moves between the kitchen and the terrace like the manager of a small restaurant. She says a family is like a plant: if you don't water it regularly, it dies. These gatherings are the "watering" — and I think she is right.
+> My sister decided to learn Spanish two years ago, but she never opened a coursebook. Instead, she watched her favourite series first with Hungarian subtitles, then with Spanish ones, and after six months she started speaking to herself in Spanish while cooking. She also found a language exchange partner online: they chat twice a week — half an hour in Spanish, half an hour in English. Her grammar is not perfect, but she can actually communicate, which is more than most of us can say after eight years of school English.
 
-### c) Hobbik, háziállat – a barátod és a két kutyája
+### c) Élmények – a barátod pincérként a Balatonnál
 
-> My friend Bendegúz has two dogs and a cat, and his whole free time revolves around them. He walks the dogs together every afternoon — rain or shine —, he trains them in the park, and he even saves money for dog treats instead of games. Some people think it's too much, but he says the dogs made him more responsible: you cannot sleep in when two tails are banging against your door at six in the morning. His dream is to become a dog trainer, and honestly, I believe he will.
+> My friend worked as a waiter at Lake Balaton last summer, and he calls it "the real language exam". In the beginning, he panicked every time a German or English guest arrived, and he learned the phrases "beer" and "the same again" before anything else. By August he was chatting with the guests, taking complex orders and even joking with the regulars. One English family left him a big tip just because he was patient and tried to speak. He says no app in the world could have taught him what one summer of real conversations did.
 
-### d) Kikapcsolódás – a nagypapád, a horgász
+### d) Egy teljes tétel – az unokatesóved spanyol nyelvi utja
 
-> My grandfather has been fishing for forty years, and he says it is better than any medicine. He sits at the lake from dawn, in complete silence, and — as he jokes — "sometimes a fish also comes". My grandmother used to be angry about the "wasted" weekends, but then she noticed that after a fishing day he comes home calm and smiling. Now she says everyone should find their own lake — a place where time stops. For me, that sentence is the best definition of relaxation.
-
-### e) Egy teljes tétel – a nagymamád, a legfoglaltabb nyugdíjas
-
-> I would like to talk about my grandmother, because at seventy she has a more colourful free-time life than anyone I know.
+> I would like to talk about my cousin Dóri, because her language story is a perfect example of this topic.
 >
-> First, clubs. She is a member of the local retirees' club and a choir: they rehearse every Thursday and sing at every town celebration.
+> First, the role of languages. She fell in love with Spanish series, and that hobby showed her what a world language really means — music, films and friends from three continents.
 >
-> As for social gatherings, her house is the family meeting point — every big occasion ends in her kitchen, and she organises a name-day gathering for each of her four grandchildren.
+> As for opportunities, she started with a free app, then went to a language school twice a week, and finally applied for a summer course in Spain.
 >
-> Speaking about hobbies, she has a beautiful garden and an old cat called Cirmi, and she collects recipes — she has four handwritten books full of them.
+> Her methods were unusual but effective: she learned vocabulary from song lyrics, changed her phone language to Spanish, and made friends with exchange students at her university.
 >
-> Finally, relaxation: in the evenings she watches her favourite series with a cup of herbal tea, and she says that after seventy years of hard work, she has earned every minute of it.
+> Today she speaks fluent Spanish, and last year she worked as a tour guide in Madrid. When I asked her about the secret, she said: "I never studied the language. I just started living in it."
 >
-> All things considered, my grandmother proves that recreation is not about age, but about attitude. Thank you for listening.
+> All things considered, Dóri taught me that motivation matters more than talent. Thank you for listening.
 
 ### További kifejezések
 
+| English | Magyar |
+|---|---|
+| to be worth the effort | megéri a fáradságot |
+| to give up | feladni |
+| accent | akcentus |
+| to improve | fejlődni, fejleszteni |
+| to pick up a language | felszedni egy nyelvet |
+| false friends | „hamis barátok" (hasonló szavak más értelemben) |
+| to translate | fordítani |
+| to keep a diary (in English) | naplót vezetni (angolul) |
 
-| English                | Magyar                  |
-| ---------------------- | ----------------------- |
-| to take up a hobby     | belekezdeni egy hobbiba |
-| free time / spare time | szabadidő               |
-| to socialise           | társasági életet élni   |
-| to have fun            | jól szórakozni          |
-| to get together        | összejönni              |
-| to be keen on sth      | rajongani vmiért        |
-| rain or shine          | bármilyen időben        |
-| in moderation          | mértékkel               |
-
-
-> **Megjegyzés:** a számítógépes játékoknál a vizsgáztató szinte garantáltan rákérdez: „Aren't computer games addictive?" – készülj kiegyensúlyozott válaszal (előny: angol, csapatjáték; hátrány: függőség, szem).
+> **Megjegyzés:** a vizsgáztató tipikus vitás kérdése: „Is English enough? Should everyone speak two languages?" – készülj érvekkel, és említsd a magyar nyelv megőrzésének jelentőségét is.
 
 ---
 
 ## 7. Tippek a vizsgára (Exam tips)
 
-- Gyakorisági határozókat tegyél a szokásokhoz: *twice a week, every other Sunday, now and then* – ez vizsgán "príma" nyelvi jel.
-- A gaming-témánál mutass kiegyensúlyozott véleményt: előny + hátrány + saját szabály („only at weekends").
-- Háziállatnál használj tréfás képeket is (*two tails banging against the door*) – a humor természetessé teszi a beszédet.
-- A „clubs" pontnál ha nem tagja egy klubnak sem, mondd, mit *would like to join* és miért.
+- A kulcsmondat: *I have been learning English for ten years.* – a *for/since* helyes használata itt kötelező vizsgapont.
+- Kerüld a magyarosságot: nem „I learn English since six years", hanem *since I was six / for six years*.
+- Készülj egy konkrét, vicces nyelvi élménnyel – a történetmesélés mindig megmenti a választ.
+- Ha nem vagy biztos egy szóban, mutasd be: *„the thing you use to…"* – a körülírás is nyelvi teljesítmény.
